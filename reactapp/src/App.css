@@ -1,0 +1,30 @@
+.title{
+font-size: 37px;
+text-align: center;
+}
+
+.text-primary{
+text-align: center;
+font-size: 77px;
+}
+
+.title-data{
+text-align: center;
+font-size: 17px;
+}
+
+.pagination {
+  color: black;
+  float: left;
+  border-radius: 5px;
+  font-size: 25px;
+  text-align: center;
+  border: 3px solid #ddd;
+}
+
+.pagination a {
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 0 4px;
+}
